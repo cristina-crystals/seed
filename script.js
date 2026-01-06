@@ -1,5 +1,5 @@
 // Update these URLs when your platforms are ready
-const EDU_APP_URL = '#'; // Replace with your EDU node app URL when ready
+const EDU_APP_URL = 'https://crystals-relational-energetics.web.app/colors/orange';
 const SHOPIFY_URL = '#'; // Replace with your Shopify store URL
 
 document.addEventListener('DOMContentLoaded', () => {
